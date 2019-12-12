@@ -14,6 +14,13 @@
 ## TIPS:
 因为官方给的原始数据压缩包大于4gb，我这里对每一个包进行了分卷压缩，大家注意分卷解压缩使用
 
+## core slides:
+![Aaron Swartz](https://github.com/zhengye1995/Tianchi-2019-Guangdong-Intelligent-identification-of-cloth-defects-rank5/raw/master/temp_img/%E5%9B%BE%E7%89%871.png)
+![Aaron Swartz](https://github.com/zhengye1995/Tianchi-2019-Guangdong-Intelligent-identification-of-cloth-defects-rank5/raw/master/temp_img/%E5%9B%BE%E7%89%872.png)
+![Aaron Swartz](https://github.com/zhengye1995/Tianchi-2019-Guangdong-Intelligent-identification-of-cloth-defects-rank5/raw/master/temp_img/%E5%9B%BE%E7%89%873.png)
+![Aaron Swartz](https://github.com/zhengye1995/Tianchi-2019-Guangdong-Intelligent-identification-of-cloth-defects-rank5/raw/master/temp_img/%E5%9B%BE%E7%89%874.png)
+![Aaron Swartz](https://github.com/zhengye1995/Tianchi-2019-Guangdong-Intelligent-identification-of-cloth-defects-rank5/raw/master/temp_img/%E5%9B%BE%E7%89%875.png)
+![Aaron Swartz](https://github.com/zhengye1995/Tianchi-2019-Guangdong-Intelligent-identification-of-cloth-defects-rank5/raw/master/temp_img/%E5%9B%BE%E7%89%876.png)
 ## 算法流程&方案介绍 CFRCNN--变化检测思路
 
 + 输入图片预处理
